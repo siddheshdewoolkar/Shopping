@@ -68,6 +68,7 @@
 			}
 		%>
 
+
 		<input type="submit" name="action" value="Checkout" />
 		<input type="submit" name="action" value="Add to cart" /> 
  
